@@ -23,8 +23,8 @@ CalorieSmart AI is an intelligent food analysis application that uses Google's G
 
 1. Clone the repository:
 ```bash
-git clone 
-cd caloriesmart-ai
+git clone https://github.com/Rafiqdevhub/CalorieSmart-AI.git
+cd CalorieSmart-AI
 ```
 
 2. Install the required packages:
